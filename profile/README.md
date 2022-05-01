@@ -13,4 +13,4 @@
 # Glacier Client
 
 plz visit our website : https://www.glacierclient.net
-or DC at https://discord.gg/KUD3WwwqQU
+or DC at https://www.glacierclient.net/discord
