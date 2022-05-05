@@ -12,5 +12,5 @@
 -->
 # Glacier Client
 
-plz visit our website : https://www.glacierclient.net
-or DC at https://www.glacierclient.net/discord
+Please visit our website : https://www.glacierclient.net
+or Discord at https://www.glacierclient.net/discord
